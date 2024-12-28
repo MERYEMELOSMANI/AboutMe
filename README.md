@@ -6,9 +6,13 @@ Avant de rejoindre cette formation, j'ai étudié à l'École Supérieure de Tec
 🛠️ Mes Compétences
 
 -Langages de programmation : Php , Java , JS , Python 🐍, avec une  maîtrise des outils de Data Science et de l'intelligence artificielle.
+
 -Bases de données :SQL,MongoDB 🗃️, pour la gestion et l'analyse de données volumineuses.
+
 -Optimisation et Recherche Opérationnelle : Utilisation des techniques avancées pour optimiser des modèles et résoudre des problèmes complexes dans le cadre de mes études.
+
 -Développement d'applications : J'ai conçu et développé une application de gestion des emplois du temps, un projet personnel qui combine mes compétences en programmation et gestion de projet.
+
 -Mathématiques et Analyse de données : Ma formation met un accent particulier sur les mathématiques appliquées, utilisées pour résoudre des problèmes complexes dans divers domaines, notamment l'optimisation et le machine      learning.
    
 
